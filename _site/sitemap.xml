@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://0.0.0.0:4000/2017/02/06/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2</loc>
+<loc>/2017/02/06/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2</loc>
 <lastmod>2017-02-06T00:00:00+08:00</lastmod>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/archive</loc>
+<loc>/archive</loc>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/categories</loc>
+<loc>/categories</loc>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/</loc>
+<loc>/</loc>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/pages</loc>
+<loc>/pages</loc>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/tags</loc>
+<loc>/tags</loc>
 </url>
 </urlset>

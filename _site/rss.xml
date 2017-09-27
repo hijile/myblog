@@ -3,10 +3,10 @@
 <channel>
         <title>我的博客</title>
         <description>我的博客 - hiji</description>
-        <link>http://hijile.github.io</link>
-        <atom:link href="http://hijile.github.io/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 27 Sep 2017 15:18:34 +0800</lastBuildDate>
-        <pubDate>Wed, 27 Sep 2017 15:18:34 +0800</pubDate>
+        <link>http://hijile.github.io/myblog</link>
+        <atom:link href="http://hijile.github.io/myblog/rss.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Wed, 27 Sep 2017 15:22:13 +0800</lastBuildDate>
+        <pubDate>Wed, 27 Sep 2017 15:22:13 +0800</pubDate>
         <ttl>60</ttl>
 
 
@@ -16,8 +16,8 @@
 
 &lt;p&gt;以下是文章内容&lt;/p&gt;
 </description>
-                <link>http://hijile.github.io/2017/02/06/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2</link>
-                <guid>http://hijile.github.io/2017/02/06/第一篇博客</guid>
+                <link>http://hijile.github.io/myblog/2017/02/06/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2</link>
+                <guid>http://hijile.github.io/myblog/2017/02/06/第一篇博客</guid>
                 <pubDate>Mon, 06 Feb 2017 00:00:00 +0800</pubDate>
         </item>
 

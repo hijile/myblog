@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>我的博客</title>
+ <link href="http://hijile.github.io/atom.xml" rel="self"/>
+ <link href="http://hijile.github.io"/>
+ <updated>2017-09-27T15:00:58+08:00</updated>
+ <id>http://hijile.github.io</id>
+ <author>
+   <name>hiji</name>
+   <email>hijile@163.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>第一篇博客</title>
+   <link href="http://hijile.github.io/2017/02/06/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2"/>
+   <updated>2017-02-06T00:00:00+08:00</updated>
+   <id>http://hijile.github.io/2017/02/06/第一篇博客</id>
+   <content type="html">&lt;h2 id=&quot;我的博客&quot;&gt;我的博客&lt;/h2&gt;
+
+&lt;p&gt;以下是文章内容&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>

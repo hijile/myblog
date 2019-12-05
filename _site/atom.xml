@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>我的博客</title>
- <link href="http://hijile.github.io/myblog/atom.xml" rel="self"/>
- <link href="http://hijile.github.io/myblog"/>
- <updated>2017-09-27T15:25:26+08:00</updated>
- <id>http://hijile.github.io/myblog</id>
+ <title>hiji的博客</title>
+ <link href="https://hiji20.tk/atom.xml" rel="self"/>
+ <link href="https://hiji20.tk"/>
+ <updated>2019-09-15T00:07:16+08:00</updated>
+ <id>https://hiji20.tk</id>
  <author>
    <name>hiji</name>
    <email>hijile@163.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>第一篇博客</title>
-   <link href="http://hijile.github.io/myblog/2017/02/06/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2"/>
+   <link href="https://hiji20.tk/2017/02/06/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2"/>
    <updated>2017-02-06T00:00:00+08:00</updated>
-   <id>http://hijile.github.io/myblog/2017/02/06/第一篇博客</id>
+   <id>https://hiji20.tk/2017/02/06/第一篇博客</id>
    <content type="html">&lt;h2 id=&quot;我的博客&quot;&gt;我的博客&lt;/h2&gt;
 
 &lt;p&gt;以下是文章内容&lt;/p&gt;

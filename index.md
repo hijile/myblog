@@ -5,7 +5,7 @@ description: "Thinking will not overcome fear but action will."
 
 {% include JB/setup %}
 
-## 我的帖子
+## 文章列表
 
 <ul class="posts">
   {% for post in site.posts %}
